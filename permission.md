@@ -70,7 +70,7 @@ To request permission for any restricted use, please provide:
 
 Send your request to:
 
-**randy.manthey (at) [your domain or email]**
+**randy.manthey (at) rmanthey@mantheyco.com**
 
 You may also submit a request through the contact section of the AI‑OGF GitHub Pages site.
 
@@ -111,6 +111,6 @@ Any other copies, forks, or reproductions are unauthorized.
 
 For permission requests, collaboration inquiries, or general questions, please contact:
 
-**randy.manthey (at) [your domain or email]**
+**randy.manthey (at) rmanthey@mantheyco.com**
 
 Thank you for respecting the intellectual property and integrity of the AI‑OGF framework.
