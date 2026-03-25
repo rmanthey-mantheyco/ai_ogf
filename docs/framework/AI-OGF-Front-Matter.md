@@ -26,7 +26,7 @@
 ## Linked Supplements
 
 ### 4.x — Principles
-- [4.1 Transparency](supplements/4.x/AIOGF-SD-4.1.md)
+- [4.1 Transparency](../supplements/4.x/AIOGF-SD-4.1.md)
 - [4.2 Least Autonomy](supplements/4.x/AIOGF-SD-4.2.md)
 - [4.3 Human Override](supplements/4.x/AIOGF-SD-4.3.md)
 - [4.4 Isolation by Design](supplements/4.x/AIOGF-SD-4.4.md)
