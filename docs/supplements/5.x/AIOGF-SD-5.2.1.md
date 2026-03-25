@@ -10,6 +10,23 @@
 
 ---
 
+## Licensing and Usage Notice
+
+This supplemental document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI‑OGF Limited Use License.
+
+You may:
+- Read and reference this document for internal, non‑commercial use.
+
+You may not:
+- Reproduce, redistribute, or create derivative works.
+- Use this document for commercial purposes, consulting, training, or resale.
+- Use this document to train AI models or automated systems.
+- Incorporate this document into tools, platforms, or governance products without written permission.
+
+For permission requests or collaboration inquiries, visit the Permission and Collaboration page on the official AIOGF site.
+
+---
+
 ## 5.2.1.1 Purpose of the Practice
 
 The purpose of this practice is to identify, document, and govern all physical and logical infrastructure components that an AI system depends on to operate. This includes compute, storage, networking, orchestration layers, identity systems, and environmental controls.
