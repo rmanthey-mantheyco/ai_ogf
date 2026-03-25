@@ -3,10 +3,12 @@
 **Document Identifier:** AIOGF‑SD‑X.X.X  
 **Related Control:** X.X.X  
 **Framework:** AI Operational Governance Framework (AIOGF)  
-**Author:** Randy Manthey  
-**Version:** 1.4  
+**Framework Version:** 0.9 (Draft)  
+**Document Version:** 1.6  
+**Author:** Randy Manthey 
 **Date:** [Month Day, Year]  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 

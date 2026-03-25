@@ -78,4 +78,4 @@ See:
 ## 5. Contact
 
 For permissions, collaboration, or questions:  
-contact@mantheyco.com
+rmanthey@mantheyco.com

@@ -1,12 +1,20 @@
+---
+title: 4.6 Fail‑Safe Defaults
+nav_order: 6
+parent: "4.x"
+---
+
 # AIOGF‑SD‑4.6 — Fail‑Safe Defaults
 
 **Document Identifier:** AIOGF‑SD‑4.6  
 **Related Principle:** 4.6  
 **Framework:** AI Operational Governance Framework (AIOGF)  
-**Author:** Randy Manthey  
-**Version:** 1.4  
+**Framework Version:** 0.9 (Draft)  
+**Document Version:** 1.6  
+**Author:** Randy Manthey 
 **Date:** March 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -290,3 +298,8 @@ If HVAC sensors drift, AI freezes optimization and escalates to an operator.
 
 ### **External Standards (Informative References — To Be Developed)**  
 IEC 61508, ISO 13849, ISO 42001, NIST CSF, NIST SP 800‑53.
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

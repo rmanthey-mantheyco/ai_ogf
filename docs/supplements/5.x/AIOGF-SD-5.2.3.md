@@ -1,12 +1,20 @@
+---
+title: 5.2.3 Map AI → Humans
+nav_order: 3
+parent: "5.x"
+---
+
 # AIOGF‑SD‑5.2.3 — Map AI → Humans
 
 **Document Identifier:** AIOGF‑SD‑5.2.3  
 **Related Control:** 5.2.3  
 **Framework:** AI Operational Governance Framework (AIOGF)  
-**Author:** Randy Manthey  
-**Version:** 1.4  
+**Framework Version:** 0.9 (Draft)  
+**Document Version:** 1.6  
+**Author:** Randy Manthey 
 **Date:** March 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -304,3 +312,8 @@ AI adjusts HVAC autonomously; humans monitor and intervene when thresholds are e
 
 ### **External Standards (Informative References — To Be Developed)**  
 NIST CSF, NIST SP 800‑53, ISO/IEC 27001, ISO/IEC 42001, CIS Controls, SOC 2.
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

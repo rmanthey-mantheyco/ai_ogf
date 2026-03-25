@@ -1,3 +1,9 @@
+---
+title: 6.2.2 Autonomy Boundary Enforcement
+nav_order: 2
+parent: "6.x"
+---
+
 # AIOGF‑SD‑6.2.2 — Define Decision Authority
 
 **Document Identifier:** AIOGF‑SD‑6.2.2  
@@ -7,6 +13,7 @@
 **Version:** 1.3  
 **Date:** March 2, 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -360,3 +367,8 @@ AI autonomously scales infrastructure based on load but cannot modify IAM or wor
 
 ### External Standards (Informative References — To Be Developed)
 Cross‑framework mappings to NIST CSF, NIST SP 800‑53, ISO/IEC 27001, ISO/IEC 42001, CIS Controls, and SOC 2 will be added in a future AIOGF Annex.
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

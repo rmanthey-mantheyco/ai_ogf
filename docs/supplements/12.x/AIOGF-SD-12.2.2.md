@@ -1,3 +1,9 @@
+---
+title: 12.2.2 Environmental Hazard Mitigation Controls
+nav_order: 3
+parent: "12.x"
+---
+
 # AIOGF‑SD‑12.2.2 — Kill Switches
 
 **Document Identifier:** AIOGF‑SD‑12.2.2  
@@ -7,6 +13,7 @@
 **Version:** 1.6  
 **Date:** March 24, 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -225,3 +232,8 @@ Internal AIOGF Controls:
 Additional technical guidance, architectural patterns, and diagrams for kill switch implementation are provided in:
 - Annex K — Kill Switch Architecture & Safety Interlocks (eta-tbd)
 - Diagram Set K — Kill Switch & Safety Interlock Visuals (eta-tbd)
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

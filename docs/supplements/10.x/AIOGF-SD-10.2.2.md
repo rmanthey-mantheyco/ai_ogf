@@ -1,3 +1,9 @@
+---
+title: 10.2.2 Robotics‑Based Maintenance
+nav_order: 3
+parent: "10.x"
+---
+
 # AIOGF‑SD‑10.2.2 — Robotics‑Based Maintenance
 
 **Document Identifier:** AIOGF‑SD‑10.2.2  
@@ -7,6 +13,7 @@
 **Version:** 1.6  
 **Date:** March 24, 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -214,3 +221,8 @@ Robotics must not rely on vendor‑controlled update channels.
 Internal AIOGF Controls:
 - 10.2.1 Independent Hardware  
 - 10.2.3 Isolated Update Channels  
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

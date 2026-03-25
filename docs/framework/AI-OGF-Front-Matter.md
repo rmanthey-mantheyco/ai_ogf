@@ -1,5 +1,13 @@
 # AI‑OGF — Front Matter
 
+**Document Identifier:** AIOGF‑00‑Front‑Matter  
+**Framework Version:** 0.9 (Draft)  
+**Document Version:** 1.6  
+**Author:** Randy Manthey  
+**Last Updated:** March 2026  
+**Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
+
 ## Table of Contents
 - [1. Foreword](#1-foreword)
 - [2. Introduction](#2-introduction)
@@ -45,66 +53,60 @@
 - [6.2.4 Autonomy Escalation Rules](supplements/6.x/AIOGF-SD-6.2.4.md)
 - [6.3 Decision Authority & Escalation](supplements/6.x/AIOGF-SD-6.3.md)
 
-### 7.x — Continuity & Safety Controls
+### 7.x — Continuity and Safety Controls
 - [7.2.1 Continuity Boundaries](supplements/7.x/AIOGF-SD-7.2.1.md)
 - [7.2.2 Fallback Behavior](supplements/7.x/AIOGF-SD-7.2.2.md)
 - [7.2.3 Drift Detection](supplements/7.x/AIOGF-SD-7.2.3.md)
-- [7.2.4 Monitoring & Telemetry](supplements/7.x/AIOGF-SD-7.2.4.md)
+- [7.2.4 Monitoring and Telemetry](supplements/7.x/AIOGF-SD-7.2.4.md)
 - [7.2.5 Escalation Paths](supplements/7.x/AIOGF-SD-7.2.5.md)
-- [7.2.6 Safe‑Mode Behavior](supplements/7.x/AIOGF-SD-7.2.6.md)
-- [7.2.7 Destructive‑Action Controls](supplements/7.x/AIOGF-SD-7.2.7.md)
+- [7.2.6 Safe Mode Behavior](supplements/7.x/AIOGF-SD-7.2.6.md)
+- [7.2.7 Destructive Action Controls](supplements/7.x/AIOGF-SD-7.2.7.md)
 
 ### 8.x — AI Workflow Layer Limits (AI‑WLL)
-*(Planned supplements — filenames to be defined)*  
-- 8.1 Purpose  
-  - 8.1.1 Rationale  
-  - 8.1.2 Applicability  
-- 8.2 Requirements  
-  - 8.2.1 Maximum Workflow Depth  
-  - 8.2.2 Mandatory Human Checkpoints  
-  - 8.2.3 Prohibited Recursive AI Calls  
-- 8.3 Controls  
-  - 8.3.1 Cross‑AI Interaction Limits  
-  - 8.3.2 Workflow Telemetry Requirements  
-  - 8.3.3 Override & Rollback Requirements  
-- 8.4 Examples  
-  - 8.4.1 Infrastructure Deployment Example  
-  - 8.4.2 Remediation Example  
-- 8.5 Notes  
-  - 8.5.1 Exceptions  
-  - 8.5.2 Environment‑Specific Variations  
 
-### 9.x — AI‑Aware Continuity Planning
-*(Planned supplements)*  
-- 9.1 Purpose  
-- 9.2 Requirements  
-  - 9.2.1 AI‑Dependent Recovery Paths  
-  - 9.2.2 AI‑Independent Fallback Paths  
-  - 9.2.3 Circular Dependency Breakpoints  
+- [8.1 Purpose](supplements/8.x/AIOGF-SD-8.1.md)  
+  - 8.1.1 Rationale *(contained within 8.1)*  
+  - 8.1.2 Applicability *(contained within 8.1)*   
+  - [8.2.1 Maximum Workflow Depth](supplements/8.x/AIOGF-SD-8.2.1.md)  
+  - [8.2.2 Mandatory Human Checkpoints](supplements/8.x/AIOGF-SD-8.2.2.md)  
+  - [8.2.3 Prohibited Recursive AI Calls](supplements/8.x/AIOGF-SD-8.2.3.md)
+  - [8.3.1 Cross‑AI Interaction Limits](supplements/8.x/AIOGF-SD-8.3.1.md)  
+  - [8.3.2 Workflow Telemetry Requirements](supplements/8.x/AIOGF-SD-8.3.2.md)  
+  - [8.3.3 Override & Rollback Requirements](supplements/8.x/AIOGF-SD-8.3.3.md) 
+  - [8.4.1 Infrastructure Deployment Example](supplements/8.x/AIOGF-SD-8.4.1.md)  
+  - [8.4.2 Remediation Example](supplements/8.x/AIOGF-SD-8.4.2.md)  
+  - [8.5.1 Exceptions](supplements/8.x/AIOGF-SD-8.5.1.md)  
+  - [8.5.2 Environment‑Specific Variations](supplements/8.x/AIOGF-SD-8.5.2.md)
 
-### 10.x — AI Isolation & Air‑Gaps
-*(Planned supplements)*  
-- 10.1 Purpose  
-- 10.2 Requirements  
-  - 10.2.1 Independent Hardware  
-  - 10.2.2 Robotics‑Based Maintenance  
-  - 10.2.3 Isolated Update Channels  
 
-### 11.x — AI Monitoring & Drift Detection
-*(Planned supplements)*  
-- 11.1 Purpose  
-- 11.2 Requirements  
-  - 11.2.1 Behavioral Drift  
-  - 11.2.2 Model Drift  
-  - 11.2.3 Autonomy Drift  
+### 9.x — AI Aware Continuity Planning
+- [9.1 Purpose](supplements/9.x/AIOGF-SD-9.1.md)
+- [9.2 Requirements](supplements/9.x/AIOGF-SD-9.2.md)  
+  - [9.2.1 AI Dependent Recovery Paths](supplements/9.x/AIOGF-SD-9.2.1.md)  
+  - [9.2.2 AI Independent Fallback Paths](supplements/9.x/AIOGF-SD-9.2.2.md)  
+  - [9.2.3 Circular Dependency Breakpoints](supplements/9.x/AIOGF-SD-9.2.3.md)
 
-### 12.x — Human Oversight & Intervention
-*(Planned supplements)*  
-- 12.1 Purpose  
-- 12.2 Requirements  
-  - 12.2.1 Manual Override  
-  - 12.2.2 Kill Switches  
-  - 12.2.3 Human‑Validated Checkpoints  
+### 10.x — AI Isolation and Air Gaps
+- [10.1 Purpose](supplements/10.x/AIOGF-SD-10.1.md)
+- [10.2 Requirements](supplements/10.x/AIOGF-SD-10.2.md)  
+  - [10.2.1 Independent Hardware](supplements/10.x/AIOGF-SD-10.2.1.md)  
+  - [10.2.2 Robotics Based Maintenance](supplements/10.x/AIOGF-SD-10.2.2.md)  
+  - [10.2.3 Isolated Update Channels](supplements/10.x/AIOGF-SD-10.2.3.md)
+
+### 11.x — AI Monitoring and Drift Detection
+- [11.1 Purpose](supplements/11.x/AIOGF-SD-11.1.md)
+- [11.2 Requirements](supplements/11.x/AIOGF-SD-11.2.md)  
+  - [11.2.1 Behavioral Drift](supplements/11.x/AIOGF-SD-11.2.1.md)  
+  - [11.2.2 Model Drift](supplements/11.x/AIOGF-SD-11.2.2.md)  
+  - [11.2.3 Autonomy Drift](supplements/11.x/AIOGF-SD-11.2.3.md)
+  - [11.2.4 Memory Drift](supplements/11.x/AIOGF-SD-11.2.4.md)
+
+### 12.x — Human Oversight and Intervention
+- [12.1 Purpose](supplements/12.x/AIOGF-SD-12.1.md)
+- [12.2 Requirements](supplements/12.x/AIOGF-SD-12.2.md)  
+  - [12.2.1 Manual Override](supplements/12.x/AIOGF-SD-12.2.1.md)  
+  - [12.2.2 Kill Switches](supplements/12.x/AIOGF-SD-12.2.2.md)  
+  - [12.2.3 Human Validated Checkpoints](supplements/12.x/AIOGF-SD-12.2.3.md)
 
 ---
 
@@ -211,3 +213,6 @@ Instead, AI‑OGF is designed to **complement and integrate with** these framewo
 
 ## Index
 *(To be developed)*
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI‑OGF Limited Use License.  
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

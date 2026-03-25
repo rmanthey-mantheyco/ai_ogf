@@ -51,6 +51,7 @@ Unauthorized use, reproduction, or distribution is a violation of copyright law 
 ## 6. Source of Truth
 The only official and authorized source of the Framework is:
 
-https://<your-github-pages-site>
+https://rmanthey-mantheyco.github.io/ai-ogf/
+
 
 Any other copies, forks, or reproductions are unauthorized.

@@ -1,3 +1,9 @@
+---
+title: 9.2.1 Kill‑Switch Activation Criteria
+nav_order: 2
+parent: "9.x"
+---
+
 # AIOGF‑SD‑9.2.1 — AI‑Dependent Recovery Paths
 
 **Document Identifier:** AIOGF‑SD‑9.2.1  
@@ -7,6 +13,7 @@
 **Version:** 1.6  
 **Date:** March 24, 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -211,3 +218,8 @@ AI‑dependent recovery must never be the only recovery path.
 Internal AIOGF Controls:
 - 9.2.2 AI‑Independent Fallback Paths  
 - 9.2.3 Circular Dependency Breakpoints  
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

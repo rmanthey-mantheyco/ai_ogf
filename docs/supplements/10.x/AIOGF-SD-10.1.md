@@ -1,3 +1,9 @@
+---
+title: 10.1 Purpose
+nav_order: 1
+parent: "10.x"
+---
+
 # AIOGF‑SD‑10.1 — Purpose of AI Isolation & Air‑Gaps
 
 **Document Identifier:** AIOGF‑SD‑10.1  
@@ -7,6 +13,7 @@
 **Version:** 1.6  
 **Date:** March 24, 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -236,3 +243,8 @@ Internal AIOGF Controls:
 
 External Standards:
 Defined in the AIOGF Crosswalk document.
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

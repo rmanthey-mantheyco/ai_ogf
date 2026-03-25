@@ -1,3 +1,9 @@
+---
+title: 9.2.3 Post‑Kill‑Switch Recovery
+nav_order: 4
+parent: "9.x"
+---
+
 # AIOGF‑SD‑9.2.3 — Circular Dependency Breakpoints
 
 **Document Identifier:** AIOGF‑SD‑9.2.3  
@@ -7,6 +13,7 @@
 **Version:** 1.6  
 **Date:** March 24, 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -304,3 +311,8 @@ New AI capabilities and cross‑system automations can silently introduce loops 
 ### External Standards (Informative References — To Be Developed)
 
 Cross‑framework mappings to NIST CSF, NIST SP 800‑53, ISO/IEC 27001, ISO/IEC 42001, CIS Controls, and SOC 2 will be added in a future AIOGF Annex.
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

@@ -7,6 +7,7 @@
 **Version:** 1.5  
 **Date:** [Month Day, Year]  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 

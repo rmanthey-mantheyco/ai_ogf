@@ -1,4 +1,9 @@
-# AIOGF‑SD‑11.2.4 — Memory Drift
+---
+title: 11.2.4 Memory Drift
+nav_order: 5
+parent: "11.x"
+---
+
 
 **Document Identifier:** AIOGF‑SD‑11.2.4  
 **Related Control:** 11.2.4  
@@ -7,6 +12,7 @@
 **Version:** 1.6  
 **Date:** March 24, 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -254,3 +260,8 @@ Internal AIOGF Controls:
 
 External Standards:
 Defined in the AIOGF Crosswalk document.
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

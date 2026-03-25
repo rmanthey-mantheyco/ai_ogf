@@ -1,3 +1,9 @@
+---
+title: 8.1 Purpose
+nav_order: 1
+parent: "8.x"
+---
+
 # AIOGF-SD-8.1 — AI Workflow Layer Limits (AI-WLL) — Purpose
 
 **Document Identifier:** AIOGF-SD-8.1  
@@ -7,6 +13,7 @@
 **Version:** 1.6  
 **Date:** March 22, 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -376,3 +383,7 @@ Organizations may allow exceptions, but such exceptions must be:
 
 ### **External Standards (Informative References — To Be Developed)**  
 Cross-framework mappings will be defined in the AIOGF Crosswalk document.
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

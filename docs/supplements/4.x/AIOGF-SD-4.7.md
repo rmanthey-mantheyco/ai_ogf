@@ -1,12 +1,20 @@
+---
+title: 4.7 Workflow Layer Limits
+nav_order: 7
+parent: "4.x"
+---
+
 # AIOGF‑SD‑4.7 — Workflow Layer Limits
 
 **Document Identifier:** AIOGF‑SD‑4.7  
 **Related Principle:** 4.7  
 **Framework:** AI Operational Governance Framework (AIOGF)  
-**Author:** Randy Manthey  
-**Version:** 1.4  
+**Framework Version:** 0.9 (Draft)  
+**Document Version:** 1.6  
+**Author:** Randy Manthey 
 **Date:** March 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -292,3 +300,8 @@ AI may adjust HVAC settings but cannot trigger downstream electrical or safety w
 
 ### **External Standards (Informative References — To Be Developed)**  
 ISO 42001, NIST CSF, NIST SP 800‑53, IEC 61508.
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

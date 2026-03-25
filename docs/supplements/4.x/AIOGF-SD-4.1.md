@@ -1,12 +1,20 @@
+---
+title: 4.1 Transparency
+nav_order: 1
+parent: "4.x"
+---
+
 # AIOGF‑SD‑4.1 — Transparency
 
 **Document Identifier:** AIOGF‑SD‑4.1  
 **Related Principle:** 4.1  
 **Framework:** AI Operational Governance Framework (AIOGF)  
-**Author:** Randy Manthey  
-**Version:** 1.4  
+**Framework Version:** 0.9 (Draft)  
+**Document Version:** 1.6  
+**Author:** Randy Manthey 
 **Date:** March 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -304,3 +312,8 @@ AI displays environmental data, optimization logic, and fallback conditions.
 
 ### **External Standards (Informative References — To Be Developed)**  
 ISO 42001, NIST AI RMF, IEC 61508, NIST CSF.
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

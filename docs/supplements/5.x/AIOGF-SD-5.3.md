@@ -1,12 +1,20 @@
+---
+title: 5.3 Placeholder
+nav_order: 6
+parent: "5.x"
+---
+
 # AIOGF‑SD‑5.3 — Implementation Guidance
 
 **Document Identifier:** AIOGF‑SD‑5.3  
 **Related Control:** 5.3  
 **Framework:** AI Operational Governance Framework (AIOGF)  
-**Author:** Randy Manthey  
-**Version:** 1.4  
+**Framework Version:** 0.9 (Draft)  
+**Document Version:** 1.6  
+**Author:** Randy Manthey 
 **Date:** February 25, 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -300,3 +308,8 @@ An AI system relies on a specific database cluster; the dependency is updated af
 
 ### External Standards (Informative References — To Be Developed)
 Cross‑framework mappings to NIST CSF, NIST SP 800‑53, ISO/IEC 27001, ISO/IEC 42001, CIS Controls, and SOC 2 will be added in a future AIOGF Annex.
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

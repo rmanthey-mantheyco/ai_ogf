@@ -1,3 +1,9 @@
+---
+title: 12.2.3 Environmental Hazard Response Procedures
+nav_order: 4
+parent: "12.x"
+---
+
 # AIOGF‑SD‑12.2.3 — Human‑Validated Checkpoints
 
 **Document Identifier:** AIOGF‑SD‑12.2.3  
@@ -7,6 +13,7 @@
 **Version:** 1.6  
 **Date:** March 24, 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -252,3 +259,8 @@ Internal AIOGF Controls:
 
 External Standards:
 Defined in the AIOGF Crosswalk document.
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

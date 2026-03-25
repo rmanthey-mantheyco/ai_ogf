@@ -1,3 +1,9 @@
+---
+title: 10.2.1 Independent Hardware
+nav_order: 2
+parent: "10.x"
+---
+
 # AIOGF‑SD‑10.2.1 — Independent Hardware
 
 **Document Identifier:** AIOGF‑SD‑10.2.1  
@@ -7,6 +13,7 @@
 **Version:** 1.6  
 **Date:** March 24, 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -218,3 +225,8 @@ Independent hardware must be validated regularly.
 Internal AIOGF Controls:
 - 10.2.2 Robotics‑Based Maintenance  
 - 10.2.3 Isolated Update Channels  
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

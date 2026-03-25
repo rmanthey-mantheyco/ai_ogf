@@ -1,3 +1,9 @@
+---
+title: 11.2.2 Environmental Monitoring Controls
+nav_order: 3
+parent: "11.x"
+---
+
 # AIOGF‑SD‑11.2.1 — Behavioral Drift
 
 **Document Identifier:** AIOGF‑SD‑11.2.1  
@@ -7,6 +13,7 @@
 **Version:** 1.6  
 **Date:** March 24, 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -227,3 +234,8 @@ Internal AIOGF Controls:
 - 11.2.2 Model Drift  
 - 11.2.3 Autonomy Drift  
 - 11.2.4 Memory Drift  
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

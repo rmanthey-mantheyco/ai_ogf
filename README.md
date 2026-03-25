@@ -71,11 +71,12 @@ AI‑OGF is in an active buildout phase. The following components are complete o
 - **12.x Human Oversight & Intervention**
 
 ### ✔ Repository Structure  
-- `/framework` — core framework documents  
-- `/supplements` — detailed implementation guidance  
-- `/annex` — deep technical annexes (in progress)  
-- `/diagrams` — visual models and architecture diagrams (in progress)  
-- `/roadmap` — future buildout plans  
+- `/docs/framework` — core framework documents  
+- `/docs/supplements` — detailed implementation guidance  
+- `/docs/annexes` — deep technical annexes (in progress)  
+- `/docs/diagrams` — visual models and architecture diagrams (in progress)  
+- `/docs/governance` — contributor terms, contributors list, governance artifacts  
+- `/AIOGF-road-map.md` — future buildout plans  
 
 ---
 
@@ -185,42 +186,49 @@ Use the supplement templates for consistency.
 
 ---
 
-## Roadmap (Next Steps)
+## Roadmap
 
-### **Near‑Term**
-- Annex K — Kill Switch Architecture & Safety Interlocks  
-- Diagram Set K — Kill Switch & Safety Interlock Visuals  
-- Crosswalks to NIST AI RMF and ISO/IEC 42001  
-- Maturity model expansion  
-- Adoption playbooks  
+The full roadmap is maintained in:
 
-### **Mid‑Term**
-- Reference architectures  
-- Example operational scenarios  
-- AI‑OGF v1.0 release  
-
-### **Long‑Term**
-- Certification pathways  
-- Training materials  
-- Automated validation tooling (informative, not normative)  
+👉 **[AIOGF Road‑Map](AIOGF-road-map.md)**
 
 ---
 
-## Contributing
+## Governance
 
-AI‑OGF is currently in a controlled development phase.  
-Public contribution guidelines will be added once the initial framework reaches v2.0.
+AIOGF is developed under a structured governance model to ensure consistency, quality, and long‑term maintainability.  
+All governance documents are located in:
 
----
+**`/docs/governance/`**
 
-## License
+### Governance Documents
+- [Contributor Terms of Use](docs/governance/contributor-terms.md)  
+- [Contributors](docs/governance/contributors.md)  
+- [AIOGF Road‑Map](AIOGF-road-map.md)  
 
-This project uses the AI‑OGF Limited Use License.  
-See **LICENSE.md** for full terms.
+### Contribution Process
+AIOGF is currently in a controlled development phase.  
+Public contributions are welcome, but all submissions must:
 
+- Follow the Contributor Terms  
+- Use the approved templates  
+- Maintain alignment with framework structure and terminology  
+- Undergo review and approval by the framework owner  
+
+A Pull Request Template is provided to guide contributors through the required steps.
+
+### Recognition
+Approved contributors may be acknowledged on the **Contributors** page.  
+Recognition does not imply ownership of contributed material; all contributions remain governed by the AI‑OGF Limited Use License.
+
+### Licensing
+All contributions and framework materials are governed by the  
+**AI‑OGF Limited Use License** (see [LICENSE.md](LICENSE.md)).
 
 ---
 
 ## Contact
 
-For questions or collaboration inquiries, please open an issue or contact the repository maintainer.
+For questions or collaboration inquiries, please open an issue or contact:
+
+**rmanthey@mantheyco.com**

@@ -1,3 +1,9 @@
+---
+title: 8.4.1 Infrastructure Deployment Example
+nav_order: 8
+parent: "8.x"
+---
+
 # AIOGF‑SD‑8.4.1 — Workflow Control Mechanisms
 
 This supplement defines the workflow‑level control mechanisms that ensure safe, predictable, and governable AI system behavior.
@@ -95,3 +101,8 @@ Cross‑AI interactions are a major source of risk. This diagram demonstrates ho
 Each cross‑AI call is evaluated against an allow‑list. Unauthorized interactions are blocked and logged, ensuring strict control over multi‑agent workflows.
 
 ---
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

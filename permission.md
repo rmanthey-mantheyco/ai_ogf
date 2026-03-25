@@ -101,7 +101,8 @@ All contributions become the intellectual property of the copyright holder.
 
 The only official and authorized source of AI‑OGF is:
 
-**https://<your‑github‑pages‑site>**
+https://rmanthey-mantheyco.github.io/ai-ogf/
+
 
 Any other copies, forks, or reproductions are unauthorized.
 

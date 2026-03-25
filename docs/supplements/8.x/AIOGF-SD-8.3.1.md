@@ -1,3 +1,9 @@
+---
+title: 8.3.1 Cross‑AI Interaction Limits
+nav_order: 5
+parent: "8.x"
+---
+
 # AIOGF‑SD‑8.3.1 — Cross‑AI Interaction Limits
 
 **Document Identifier:** AIOGF‑SD‑8.3.1  
@@ -7,6 +13,7 @@
 **Version:** 1.6  
 **Date:** March 23, 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -278,3 +285,8 @@ Internal AIOGF Controls:
 
 External Standards:
 Defined in the AIOGF Crosswalk document.
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

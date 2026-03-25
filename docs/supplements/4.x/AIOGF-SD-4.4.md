@@ -1,12 +1,20 @@
+---
+title: 4.4 Isolation by Design
+nav_order: 4
+parent: "4.x"
+---
+
 # AIOGF‑SD‑4.4 — Isolation by Design
 
 **Document Identifier:** AIOGF‑SD‑4.4  
 **Related Principle:** 4.4  
 **Framework:** AI Operational Governance Framework (AIOGF)  
-**Author:** Randy Manthey  
-**Version:** 1.4  
+**Framework Version:** 0.9 (Draft)  
+**Document Version:** 1.6  
+**Author:** Randy Manthey 
 **Date:** March 2026  
 **Status:** Working Draft  
+© 2025–2026 Randy Manthey. All Rights Reserved.
 
 ---
 
@@ -308,3 +316,8 @@ AI may optimize HVAC but cannot trigger electrical or safety workflows outside i
 
 ### **External Standards (Informative References — To Be Developed)**  
 Zero Trust Architecture, ISO 42001, NIST CSF, NIST SP 800‑53, IEC 61508.
+
+---
+
+This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+Official source: https://rmanthey-mantheyco.github.io/ai-ogf/
