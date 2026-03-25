@@ -4,7 +4,7 @@ remote_theme: just-the-docs/just-the-docs
 
 # GitHub Pages settings
 url: https://rmanthey-mantheyco.github.io
-baseurl: /ai-ogf
+baseurl: /ai_ogf
 
 # Enable search
 search_enabled: true
