@@ -1,61 +1,62 @@
 # Start Here
 
-Welcome to the AI Operational Governance Framework (AI-OGF).  
+Welcome to the AI Operational Governance Framework (AI‑OGF).  
 This page provides an introduction to the framework, how to navigate it, and how to participate responsibly.
 
 ---
 
-## 1. Purpose of AI-OGF
+## 1. Purpose of AI‑OGF
 
-AI-OGF is a standards aligned governance model designed to ensure that AI systems operate safely, predictably, and within defined organizational boundaries.
+AI‑OGF is a standards‑aligned governance model designed to ensure that AI systems operate safely, predictably, and within defined organizational boundaries.
 
 It provides:
-- Operational guardrails
-- Drift and recursion controls
-- Workflow depth limits
-- Cross AI interaction boundaries
-- Kill switch and rollback architecture
-- A supplement system for implementation
+- Operational guardrails  
+- Drift and recursion controls  
+- Workflow depth limits  
+- Cross‑AI interaction boundaries  
+- Kill‑switch and rollback architecture  
+- A supplement system for implementation  
 
 ---
 
 ## 2. Navigating the Framework
 
-### Core Framework
-Start with the foundational documents in docs/framework/.
+### Core Framework  
+Foundational documents including the Front Matter.  
+➡️ [View Core Framework](framework/)
 
-### Supplements
-Each supplement provides implementation guidance for a specific control area.  
-Located in docs/supplements/.
+### Supplements  
+Implementation guidance for each control area.  
+➡️ [View Supplements](supplements/)
 
-### Annex
+### Annexes  
 Technical references and extended models.  
-Located in docs/annex/.
+➡️ [View Annexes](annexes/)
 
-### Diagrams
+### Diagrams  
 Visual models supporting the framework.  
-Located in docs/diagrams/.
+➡️ [View Diagrams](diagrams/)
 
 ---
 
 ## 3. Permitted Use
 
 You may:
-- Read and reference the framework
-- Use it internally within your organization
-- Cite it in research or analysis
-- Link to this repository or the published site
+- Read and reference the framework  
+- Use it internally within your organization  
+- Cite it in research or analysis  
+- Link to this repository or the published site  
 
 You must request permission for:
-- Redistribution
-- Commercial use
-- Derivative works
-- Training AI models on this content
-- Incorporating this framework into another standard or product
+- Redistribution  
+- Commercial use  
+- Derivative works  
+- Training AI models on this content  
+- Incorporating this framework into another standard or product  
 
 See:
-- LICENSE.md
-- permission.md
+- [AI‑OGF Limited Use License](../LICENSE.md)  
+- [Permission & Usage Guidelines](../permission.md)
 
 ---
 
@@ -64,14 +65,14 @@ See:
 Contributions are welcome through pull requests.
 
 All contributors must:
-- Provide their name and background
-- Confirm originality of contributions
-- Agree to the licensing terms
-- Follow the structure and template guidelines
+- Provide their name and background  
+- Confirm originality of contributions  
+- Agree to the licensing terms  
+- Follow the structure and template guidelines  
 
 See:
-- docs/templates/
-- permission.md
+- [Templates](templates/)  
+- [Permission Guidelines](../permission.md)
 
 ---
 

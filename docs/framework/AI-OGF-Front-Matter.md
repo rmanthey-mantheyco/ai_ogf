@@ -15,6 +15,15 @@
   - [2.2 Intended Audience](#22-intended-audience)
   - [2.3 Normative and Informative References](#23-normative-and-informative-references)
   - [2.4 Framework Structure](#24-framework-structure)
+    - [2.5 AI Deployment Models](#25-ai-deployment-models-informative)
+    - [2.5.1 Local / Standalone AI](#251-local--standalone-ai)
+    - [2.5.2 Cloud API / Gateway AI](#252-cloud-api--gateway-ai)
+    - [2.5.3 SaaS‑Embedded AI](#253-saas-embedded-ai)
+    - [2.5.4 WebUI / Hosted Application AI](#254-webui--hosted-application-ai)
+    - [2.5.5 Agentic / Orchestration Layer AI](#255-agentic--orchestration-layer-ai)
+    - [2.5.6 Hybrid / Distributed AI](#256-hybrid--distributed-ai)
+    - [2.5.7 Embedded / Device‑Integrated AI](#257-embedded--device-integrated-ai)
+    - [2.5.8 Batch / Offline AI](#258-batch--offline-ai)
 - [3. Purpose and Scope](#3-purpose-and-scope)
   - [3.1 Purpose](#31-purpose)
   - [3.2 Scope](#32-scope)
@@ -164,6 +173,165 @@ AI‑OGF is organized into the following major sections:
 - **12.x Human Oversight & Intervention**  
 - **Glossary**  
 - **Index**  
+
+---
+
+### 2.5 AI Deployment Models (Informative)
+
+AI systems are deployed through a variety of architectural patterns, each with distinct operational characteristics, dependency structures, and governance implications. Understanding these deployment models is essential for applying the AI Operational Governance Framework (AI‑OGF) consistently across diverse environments.
+
+The following eight deployment models represent the most common patterns observed in enterprise, cloud, agentic, and embedded AI systems. These models are descriptive rather than prescriptive and are provided to establish a shared reference for interpreting the principles and supplements that follow.
+
+---
+
+#### 2.5.1 Local / Standalone AI
+**Definition:**  
+AI that runs entirely on a local device or isolated server, without external network dependencies.
+
+**Examples:**  
+- Desktop LLM applications  
+- Local inference engines (e.g., Ollama, LM Studio)  
+- Air‑gapped robotics  
+- Edge‑isolated inference nodes  
+
+**Governance relevance:**  
+- Strong isolation and minimal external dependencies  
+- Reduced exposure to external drift  
+- Local identity and permission boundaries  
+- Emphasis on fail‑safe defaults and safe‑mode behavior  
+
+---
+
+#### 2.5.2 Cloud API / Gateway AI
+**Definition:**  
+AI accessed through API calls to a cloud provider or gateway service.
+
+**Examples:**  
+- OpenAI API  
+- Azure OpenAI Service  
+- Anthropic Claude API  
+- AWS Bedrock  
+
+**Governance relevance:**  
+- External dependency chains must be mapped  
+- Identity‑bound authority and API key governance  
+- Workflow depth and recursion limits  
+- Monitoring for external model updates and drift  
+
+---
+
+#### 2.5.3 SaaS‑Embedded AI
+**Definition:**  
+AI capabilities embedded within SaaS platforms where the underlying model is not directly visible or controllable.
+
+**Examples:**  
+- Microsoft 365 Copilot  
+- Salesforce Einstein  
+- ServiceNow AI  
+- Zendesk AI  
+
+**Governance relevance:**  
+- Governance focuses on *usage*, not model internals  
+- Requires compensating controls for opaque systems  
+- Identity and permission scoping is critical  
+- Monitoring for unexpected behavior or drift  
+
+---
+
+#### 2.5.4 WebUI / Hosted Application AI
+**Definition:**  
+AI accessed through a browser‑based interface rather than an API or programmatic agent.
+
+**Examples:**  
+- ChatGPT web  
+- Claude web  
+- Gemini web  
+- Perplexity web  
+
+**Governance relevance:**  
+- Human‑in‑the‑loop by default  
+- Limited autonomy and workflow depth  
+- Requires human override and checkpoint controls  
+- Browser identity and session governance  
+
+---
+
+#### 2.5.5 Agentic / Orchestration Layer AI
+**Definition:**  
+AI systems capable of calling tools, APIs, or other AIs, often operating as autonomous or semi‑autonomous agents.
+
+**Examples:**  
+- MCP (Model Context Protocol) agents  
+- LangChain agents  
+- AutoGen  
+- CrewAI  
+- Function‑calling LLMs  
+
+**Governance relevance:**  
+- Highest autonomy and recursion risk  
+- Requires Workflow Layer Limits (AI‑WLL)  
+- Requires Constrained Autonomy Envelope (CAE)  
+- Cross‑AI dependency mapping  
+- Identity‑bound authority and escalation rules  
+
+---
+
+#### 2.5.6 Hybrid / Distributed AI
+**Definition:**  
+AI that spans multiple environments or layers, combining local, cloud, SaaS, or agentic components.
+
+**Examples:**  
+- Local agent + cloud API  
+- Edge inference + cloud refinement  
+- On‑prem LLM + SaaS orchestration  
+- Multi‑AI pipelines  
+
+**Governance relevance:**  
+- Complex dependency chains  
+- Multiple identity and permission domains  
+- Cross‑AI interaction limits  
+- Multi‑layer continuity and fallback planning  
+
+---
+
+#### 2.5.7 Embedded / Device‑Integrated AI
+**Definition:**  
+AI integrated into hardware, robotics, IoT devices, industrial equipment, or autonomous systems.
+
+**Examples:**  
+- Autonomous drones  
+- Industrial robotics  
+- Smart appliances  
+- Automotive AI systems  
+
+**Governance relevance:**  
+- Physical‑world safety implications  
+- Isolation and air‑gap requirements  
+- Fail‑safe defaults and safe‑mode behavior  
+- Strict continuity and override controls  
+
+---
+
+#### 2.5.8 Batch / Offline AI
+**Definition:**  
+AI used in scheduled pipelines, ETL flows, or offline inference processes where outputs are generated asynchronously.
+
+**Examples:**  
+- Batch scoring pipelines  
+- ETL‑embedded AI transformations  
+- Offline model evaluation  
+- Scheduled inference jobs  
+
+**Governance relevance:**  
+- Transparency of inputs and outputs  
+- Dependency mapping for upstream/downstream systems  
+- Drift detection across batches  
+- Monitoring for silent failures or degraded performance  
+
+---
+
+**Note:**  
+A single AI system may fit more than one deployment model. These categories are intended to support consistent interpretation of AI‑OGF principles and supplements across varied architectures.
 
 ---
 

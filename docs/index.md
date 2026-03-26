@@ -5,9 +5,9 @@ nav_order: 1
 
 # AI Operational Governance Framework (AI-OGF)
 
-The AI Operational Governance Framework (AI-OGF) is a standards‑aligned, implementation‑ready governance model designed to ensure safe, controlled, and auditable AI operations across modern enterprises.
+The AI Operational Governance Framework (AI‑OGF) is a standards‑aligned, implementation‑ready governance model designed to ensure safe, controlled, and auditable AI operations across modern enterprises.
 
-AI-OGF provides:
+AI‑OGF provides:
 - A structured governance architecture for AI systems  
 - Operational guardrails to prevent unintended AI actions  
 - Controls for drift, recursion, cross‑AI interaction, and workflow depth  
@@ -24,44 +24,58 @@ This framework is designed for:
 
 ---
 
+## Quick Links
+
+- ➡️ [Start Here](start-here.md)  
+- [Core Framework](framework/)  
+- [Supplements](supplements/)  
+- [Annexes](annexes/)  
+- [Templates](templates/)  
+- [License](../LICENSE.md)  
+- [Permission Guidelines](../permission.md)
+
+---
+
 ## Framework Structure
 
-AI-OGF is organized into the following components:
+AI‑OGF is organized into the following components:
 
 ### Core Framework  
 Foundational documents including the Front Matter.  
-Located in: `docs/framework/`
+➡️ [View Core Framework](framework/)
 
 ### Supplements (4.x–12.x)  
 Implementation‑ready guidance for each control family.  
-Located in: `docs/supplements/`
+➡️ [View Supplements](supplements/)
 
 ### Annexes  
 Extended reference material.  
-Located in: `docs/annexes/`
+➡️ [View Annexes](annexes/)
 
 ### Templates  
 Standardized formats for assessments and documentation.  
-Located in: `docs/templates/`
+➡️ [View Templates](templates/)
 
 ---
 
 ## Start Here
 
-If you are new to AI-OGF, begin with:  
-`start-here.md`
+If you are new to AI‑OGF, begin with the onboarding guide:
+
+➡️ [Start Here](start-here.md)
 
 ---
 
 ## Licensing and Use
 
-AI-OGF is publicly accessible for reading, reference, and internal organizational use.
+AI‑OGF is publicly accessible for reading, reference, and internal organizational use.
 
-Redistribution, commercial use, derivative works, or training AI models on this content require written permission.
+Redistribution, commercial use, derivative works, or training AI models on this content require **written permission**.
 
-See:
-- `LICENSE.md`
-- `permission.md`
+You can review the full terms here:
+
+- [AI‑OGF Limited Use License](../LICENSE.md)
+- [Permission & Usage Guidelines](../permission.md)
 
 ---
 
@@ -74,11 +88,11 @@ All contributors must follow the originality and attribution requirements define
 
 ## Version
 
-AI-OGF Draft Version 0.9  
+AI‑OGF Draft Version 0.9  
 Last updated: March 2026
 
 ---
 
 ## Contact
 
-contact@mantheyco.com
+rmanthey@mantheyco.com
