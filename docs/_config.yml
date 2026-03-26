@@ -1,5 +1,7 @@
 title: AI Operational Governance Framework (AI-OGF)
 description: A standards-grade governance framework for safe, controlled, and accountable AI operations.
+
+# Theme
 remote_theme: just-the-docs/just-the-docs
 
 # GitHub Pages settings
@@ -9,9 +11,49 @@ baseurl: /ai_ogf
 # Enable search
 search_enabled: true
 
-# Navigation structure
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+# Navigation Structure
+nav_order: 1
+
 just_the_docs:
-  collections:
-    docs:
-      name: Documentation
+  navigation:
+    - title: Start Here
+      url: /docs/start-here
       nav_order: 1
+
+    - title: Framework Overview
+      url: /docs/index
+      nav_order: 2
+
+    - title: Core Framework
+      url: /docs/framework/
+      nav_order: 3
+
+    - title: Supplements (4.x–12.x)
+      url: /docs/supplements/
+      nav_order: 4
+
+    - title: Annexes
+      url: /docs/annexes/
+      nav_order: 5
+
+    - title: Templates
+      url: /docs/templates/
+      nav_order: 6
+
+    - title: Diagrams
+      url: /docs/diagrams/
+      nav_order: 7
+
+    - title: License
+      url: /LICENSE
+      nav_order: 98
+
+    - title: Permission
+      url: /permission
+      nav_order: 99
