@@ -4,9 +4,9 @@ nav_order: 2
 parent: Governance
 ---
 
-# AIOGF Contributors
+# AI-OGF Contributors
 
-This page recognizes individuals who have contributed to the development, review, or improvement of the AI Operational Governance Framework (AIOGF).  
+This page recognizes individuals who have contributed to the development, review, or improvement of the AI Operational Governance Framework (AI-OGF).  
 Contributions may include content drafting, technical review, structural improvements, documentation enhancements, or other meaningful support.
 
 Contributors are listed voluntarily and may request updates to their entry at any time.

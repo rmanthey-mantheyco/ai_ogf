@@ -20,7 +20,7 @@ parent: "4.x"
 
 ## Licensing and Usage Notice
 
-This supplemental document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI‑OGF Limited Use License.
+This supplemental document is part of the AI Operational Governance Framework (AI-OGF) and is protected under the AI‑OGF Limited Use License.
 
 You may:
 - Read and reference this document for internal, non‑commercial use.
@@ -31,7 +31,7 @@ You may not:
 - Use this document to train AI models or automated systems.
 - Incorporate this document into tools, platforms, or governance products without written permission.
 
-For permission requests or collaboration inquiries, visit the Permission and Collaboration page on the official AIOGF site.
+For permission requests or collaboration inquiries, visit the Permission and Collaboration page on the official AI-OGF site.
 
 ---
 
@@ -295,7 +295,7 @@ AI may optimize HVAC settings but cannot trigger electrical or safety workflows.
 
 ## 4.2.9 Cross‑References
 
-### **Internal AIOGF Controls**
+### **Internal AI-OGF Controls**
 
 - **4.1 Transparency** — autonomy must be visible and understandable.  
 - **4.3 Human Override** — humans must remain the ultimate authority.  
@@ -315,5 +315,5 @@ ISO 42001, IEC 61508, ISO 13849, NIST CSF, NIST SP 800‑53.
 
 ---
 
-This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+This document is part of the AI Operational Governance Framework (AI-OGF) and is protected under the AI-OGF Limited Use License.
 Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

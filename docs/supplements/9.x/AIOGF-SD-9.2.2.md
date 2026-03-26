@@ -210,11 +210,11 @@ Fallback paths must be validated regularly.
 
 ## 9.2.2.11 Cross‑References
 
-Internal AIOGF Controls:
+Internal AI-OGF Controls:
 - 9.2.1 AI‑Dependent Recovery Paths  
 - 9.2.3 Circular Dependency Breakpoints  
 
 ---
 
-This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+This document is part of the AI Operational Governance Framework (AI-OGF) and is protected under the AI-OGF Limited Use License.
 Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

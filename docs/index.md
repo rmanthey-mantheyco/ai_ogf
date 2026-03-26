@@ -1,13 +1,13 @@
 ---
-title: AI Operational Governance Framework (AIOGF)
+title: AI Operational Governance Framework (AI-OGF)
 nav_order: 1
 ---
 
-# AI Operational Governance Framework (AIOGF)
+# AI Operational Governance Framework (AI-OGF)
 
-The AI Operational Governance Framework (AIOGF) is a standards‑aligned, implementation‑ready governance model designed to ensure safe, controlled, and auditable AI operations across modern enterprises.
+The AI Operational Governance Framework (AI-OGF) is a standards‑aligned, implementation‑ready governance model designed to ensure safe, controlled, and auditable AI operations across modern enterprises.
 
-AIOGF provides:
+AI-OGF provides:
 - A structured governance architecture for AI systems  
 - Operational guardrails to prevent unintended AI actions  
 - Controls for drift, recursion, cross‑AI interaction, and workflow depth  
@@ -26,7 +26,7 @@ This framework is designed for:
 
 ## Framework Structure
 
-AIOGF is organized into the following components:
+AI-OGF is organized into the following components:
 
 ### Core Framework  
 Foundational documents including the Front Matter.  
@@ -48,14 +48,14 @@ Located in: `docs/templates/`
 
 ## Start Here
 
-If you are new to AIOGF, begin with:  
+If you are new to AI-OGF, begin with:  
 `start-here.md`
 
 ---
 
 ## Licensing and Use
 
-AIOGF is publicly accessible for reading, reference, and internal organizational use.
+AI-OGF is publicly accessible for reading, reference, and internal organizational use.
 
 Redistribution, commercial use, derivative works, or training AI models on this content require written permission.
 
@@ -74,7 +74,7 @@ All contributors must follow the originality and attribution requirements define
 
 ## Version
 
-AIOGF Draft Version 0.9  
+AI-OGF Draft Version 0.9  
 Last updated: March 2026
 
 ---
