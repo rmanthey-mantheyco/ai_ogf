@@ -1,6 +1,6 @@
-# How You May Use the AI Operational Governance Framework (AIOGF)
+# How You May Use the AI Operational Governance Framework (AI-OGF)
 
-This page explains how individuals and organizations may use the AI Operational Governance Framework (AIOGF) in a clear and practical way. It summarizes the key points of the AI‑OGF Limited Use License and the Permission and Collaboration policy.
+This page explains how individuals and organizations may use the AI Operational Governance Framework (AI-OGF) in a clear and practical way. It summarizes the key points of the AI‑OGF Limited Use License and the Permission and Collaboration policy.
 
 For full legal terms, see:
 - LICENSE.md
@@ -10,12 +10,12 @@ For full legal terms, see:
 
 ## 1. What You May Do Without Permission
 
-You may use AIOGF freely for the following purposes:
+You may use AI-OGF freely for the following purposes:
 
 - Reading and viewing the framework on the official site
 - Referencing the framework in research, analysis, or discussion
 - Using the framework as inspiration to build your own internal governance processes
-- Sharing links to the official AIOGF site
+- Sharing links to the official AI-OGF site
 - Forking or cloning the public repository for review or to propose contributions
 
 These uses are allowed as long as you do not redistribute, modify, commercialize, or publish the framework.
@@ -24,7 +24,7 @@ These uses are allowed as long as you do not redistribute, modify, commercialize
 
 ## 2. What Requires Written Permission
 
-You must request permission before using AIOGF for any of the following:
+You must request permission before using AI-OGF for any of the following:
 
 ### Commercial Use
 - Consulting engagements
@@ -44,7 +44,7 @@ You must request permission before using AIOGF for any of the following:
 
 ### External Framework Development
 - Building a competing or derivative governance framework
-- Using AIOGF as a base for a public or commercial standard
+- Using AI-OGF as a base for a public or commercial standard
 
 If you are unsure whether your intended use requires permission, contact the framework owner for clarification.
 
@@ -85,7 +85,7 @@ All contributions become the intellectual property of the framework owner.
 
 ## 5. Official Source
 
-The only authorized source of AIOGF is:
+The only authorized source of AI-OGF is:
 
 https://rmanthey-mantheyco.github.io/ai-ogf/
 

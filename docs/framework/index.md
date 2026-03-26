@@ -5,7 +5,7 @@ nav_order: 2
 
 # Core Framework
 
-The Core Framework contains the foundational documents that define the purpose, scope, conventions, and structure of AIOGF.
+The Core Framework contains the foundational documents that define the purpose, scope, conventions, and structure of AI-OGF.
 
 ## Front Matter
 

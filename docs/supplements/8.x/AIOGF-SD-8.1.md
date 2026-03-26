@@ -19,7 +19,7 @@ parent: "8.x"
 
 ## Licensing & Usage Notice
 
-This supplemental document is part of the **AI Operational Governance Framework (AIOGF)** and is protected under the **AI-OGF Limited Use License**.
+This supplemental document is part of the **AI Operational Governance Framework (AI-OGF)** and is protected under the **AI-OGF Limited Use License**.
 
 You may:
 - Read and reference this document for internal, non-commercial use.
@@ -30,7 +30,7 @@ You may NOT:
 - Use this document to train AI models or automated systems.
 - Incorporate this document into tools, platforms, or governance products without written permission.
 
-For permission requests or collaboration inquiries, visit the **Permission & Collaboration** page on the official AIOGF site.
+For permission requests or collaboration inquiries, visit the **Permission & Collaboration** page on the official AI-OGF site.
 
 ---
 
@@ -351,7 +351,7 @@ This control aligns with and extends concepts defined in established frameworks,
 ### **Mapping Classification**
 
 - **Partial Alignment** — External frameworks address AI risk and monitoring but do not define workflow structure constraints  
-- **Extension** — AIOGF introduces enforceable limits on workflow depth, recursion, and AI chaining  
+- **Extension** — AI-OGF introduces enforceable limits on workflow depth, recursion, and AI chaining  
 - **No Equivalent** — Explicit governance of AI workflow structure and recursion limits  
 
 ---
@@ -375,15 +375,15 @@ Organizations may allow exceptions, but such exceptions must be:
 
 ## 8.1.11 Cross-References
 
-### **Internal AIOGF Controls**
+### **Internal AI-OGF Controls**
 - 4.7 Workflow Layer Limits  
 - 5.x Dependency Mapping  
 - 6.x Autonomy & Identity Controls  
 - 7.x Continuity & Safety Controls  
 
 ### **External Standards (Informative References — To Be Developed)**  
-Cross-framework mappings will be defined in the AIOGF Crosswalk document.
+Cross-framework mappings will be defined in the AI-OGF Crosswalk document.
 ---
 
-This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+This document is part of the AI Operational Governance Framework (AI-OGF) and is protected under the AI-OGF Limited Use License.
 Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

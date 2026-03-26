@@ -1,13 +1,13 @@
 # Start Here
 
-Welcome to the AI Operational Governance Framework (AIOGF).  
+Welcome to the AI Operational Governance Framework (AI-OGF).  
 This page provides an introduction to the framework, how to navigate it, and how to participate responsibly.
 
 ---
 
-## 1. Purpose of AIOGF
+## 1. Purpose of AI-OGF
 
-AIOGF is a standards aligned governance model designed to ensure that AI systems operate safely, predictably, and within defined organizational boundaries.
+AI-OGF is a standards aligned governance model designed to ensure that AI systems operate safely, predictably, and within defined organizational boundaries.
 
 It provides:
 - Operational guardrails

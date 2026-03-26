@@ -104,5 +104,5 @@ Each cross‑AI call is evaluated against an allow‑list. Unauthorized interact
 
 ---
 
-This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+This document is part of the AI Operational Governance Framework (AI-OGF) and is protected under the AI-OGF Limited Use License.
 Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

@@ -5,7 +5,7 @@ nav_order: 3
 
 # Supplements (4.x–12.x)
 
-The AIOGF supplement system provides implementation‑ready guidance for each major control family.  
+The AI-OGF supplement system provides implementation‑ready guidance for each major control family.  
 Supplements expand the core requirements with:
 
 - Detailed implementation steps  

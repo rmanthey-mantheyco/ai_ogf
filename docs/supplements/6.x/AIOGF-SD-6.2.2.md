@@ -19,7 +19,7 @@ parent: "6.x"
 
 ## Licensing and Usage Notice
 
-This supplemental document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI‑OGF Limited Use License.
+This supplemental document is part of the AI Operational Governance Framework (AI-OGF) and is protected under the AI‑OGF Limited Use License.
 
 You may:
 - Read and reference this document for internal, non‑commercial use.
@@ -30,7 +30,7 @@ You may not:
 - Use this document to train AI models or automated systems.
 - Incorporate this document into tools, platforms, or governance products without written permission.
 
-For permission requests or collaboration inquiries, visit the Permission and Collaboration page on the official AIOGF site.
+For permission requests or collaboration inquiries, visit the Permission and Collaboration page on the official AI-OGF site.
 
 ---
 
@@ -351,7 +351,7 @@ AI autonomously scales infrastructure based on load but cannot modify IAM or wor
 
 ## 6.2.2.9 Cross‑References
 
-### Internal AIOGF Controls
+### Internal AI-OGF Controls
 - 6.1 Define Autonomy Levels  
 - 6.2 Define Decision Authority, Permission Scope & Escalation Triggers  
 - 6.2.3 Define Permission Scope  
@@ -366,9 +366,9 @@ AI autonomously scales infrastructure based on load but cannot modify IAM or wor
 - 7.2.7 Require Independent Health Checks & Fail‑Safe Defaults  
 
 ### External Standards (Informative References — To Be Developed)
-Cross‑framework mappings to NIST CSF, NIST SP 800‑53, ISO/IEC 27001, ISO/IEC 42001, CIS Controls, and SOC 2 will be added in a future AIOGF Annex.
+Cross‑framework mappings to NIST CSF, NIST SP 800‑53, ISO/IEC 27001, ISO/IEC 42001, CIS Controls, and SOC 2 will be added in a future AI-OGF Annex.
 
 ---
 
-This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+This document is part of the AI Operational Governance Framework (AI-OGF) and is protected under the AI-OGF Limited Use License.
 Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

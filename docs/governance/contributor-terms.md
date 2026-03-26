@@ -6,7 +6,7 @@ parent: Governance
 
 # Contributor Terms of Use
 
-These terms apply to all individuals who contribute to the AI Operational Governance Framework (AIOGF), including supplements, annexes, diagrams, templates, or supporting materials.
+These terms apply to all individuals who contribute to the AI Operational Governance Framework (AI-OGF), including supplements, annexes, diagrams, templates, or supporting materials.
 
 By submitting a contribution, you agree to the following terms.
 
@@ -20,7 +20,7 @@ Contributors acknowledge that:
 - Contributions are made voluntarily.
 - No compensation is provided.
 - Contributions may be edited, merged, or rejected.
-- Contributions may be incorporated into future versions of AIOGF.
+- Contributions may be incorporated into future versions of AI-OGF.
 
 ---
 
@@ -48,7 +48,7 @@ Contributors agree that:
 ## 4. Contribution Requirements
 
 Contributors must:
-- Follow the AIOGF document structure and metadata standards.
+- Follow the AI-OGF document structure and metadata standards.
 - Use the approved templates located in docs/templates/.
 - Maintain consistency with the framework’s terminology and control structure.
 - Avoid scope creep or unrelated content.
