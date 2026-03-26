@@ -190,7 +190,7 @@ Use the supplement templates for consistency.
 
 The full roadmap is maintained in:
 
-👉 **[AIOGF Road‑Map](AIOGF-road-map.md)**
+**[AIOGF Road‑Map](docs/AIOGF-road-map.md)**
 
 ---
 
@@ -204,7 +204,7 @@ All governance documents are located in:
 ### Governance Documents
 - [Contributor Terms of Use](docs/governance/contributor-terms.md)  
 - [Contributors](docs/governance/contributors.md)  
-- [AIOGF Road‑Map](AIOGF-road-map.md)  
+- [AIOGF Road‑Map](docs/AIOGF-road-map.md)  
 
 ### Contribution Process
 AI-OGF is currently in a controlled development phase.  
@@ -223,12 +223,18 @@ Recognition does not imply ownership of contributed material; all contributions 
 
 ### Licensing
 All contributions and framework materials are governed by the  
-**AI‑OGF Limited Use License** (see [LICENSE.md](LICENSE.md)).
+**AI‑OGF Limited Use License** (see [LICENSE.md](docs/LICENSE.md)).
+
 
 ---
 
 ## Contact
 
-For questions or collaboration inquiries, please open an issue or contact:
+For contribution‑related questions or submissions, please use the link below:
 
-**rmanthey@mantheyco.com**
+[Submit an AI‑OGF Request](mailto:ai-ogf@mantheyco.com?subject=AI-OGF%20Request&body=Please%20select%20the%20type%20of%20request%20you%20are%20submitting%20and%20provide%20the%20required%20details%20below:%0A%0ARequest%20Type%20(choose%20one):%0A-%20Contribution%20Submission%0A-%20Permission%20Request%0A-%20Collaboration%20Inquiry%0A-%20General%20Question%0A%0ARequired%20Information:%0A-%20Your%20name%0A-%20Your%20organization%20(if%20applicable)%0A-%20A%20description%20of%20your%20request%20or%20intended%20use%0A-%20Whether%20the%20use%20is%20internal,%20external,%20or%20commercial%0A-%20Any%20timelines%20or%20context%20that%20may%20be%20relevant%0A%0AThank%20you%20for%20your%20submission.)
+
+## Disclaimer
+
+The AI‑OGF framework is provided for informational and educational purposes only. It does not constitute legal, regulatory, compliance, or professional advice. All use of this framework is at the user's own risk. No warranty of any kind is provided, and the author assumes no responsibility for any outcomes resulting from its use. Organizations remain fully responsible for their own governance, risk, compliance, and implementation decisions.
+
