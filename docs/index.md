@@ -31,8 +31,8 @@ This framework is designed for:
 - [Supplements](supplements/)  
 - [Annexes](annexes/)  
 - [Templates](templates/)  
-- [License](../LICENSE.md)  
-- [Permission Guidelines](../permission.md)
+- [License](LICENSE.md)  
+- [Permission Guidelines](permission.md)
 
 ---
 
@@ -74,8 +74,8 @@ Redistribution, commercial use, derivative works, or training AI models on this 
 
 You can review the full terms here:
 
-- [AI‑OGF Limited Use License](../LICENSE.md)
-- [Permission & Usage Guidelines](../permission.md)
+- [AI‑OGF Limited Use License](LICENSE.md)
+- [Permission & Usage Guidelines](permission.md)
 
 ---
 

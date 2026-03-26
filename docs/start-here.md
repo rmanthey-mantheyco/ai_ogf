@@ -55,8 +55,8 @@ You must request permission for:
 - Incorporating this framework into another standard or product  
 
 See:
-- [AI‑OGF Limited Use License](../LICENSE.md)  
-- [Permission & Usage Guidelines](../permission.md)
+- [AI‑OGF Limited Use License](LICENSE.md)  
+- [Permission & Usage Guidelines](permission.md)
 
 ---
 
@@ -72,7 +72,7 @@ All contributors must:
 
 See:
 - [Templates](templates/)  
-- [Permission Guidelines](../permission.md)
+- [Permission Guidelines](permission.md)
 
 ---
 
