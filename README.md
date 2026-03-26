@@ -196,7 +196,7 @@ The full roadmap is maintained in:
 
 ## Governance
 
-AIOGF is developed under a structured governance model to ensure consistency, quality, and long‑term maintainability.  
+AI-OGF is developed under a structured governance model to ensure consistency, quality, and long‑term maintainability.  
 All governance documents are located in:
 
 **`/docs/governance/`**
@@ -207,7 +207,7 @@ All governance documents are located in:
 - [AIOGF Road‑Map](AIOGF-road-map.md)  
 
 ### Contribution Process
-AIOGF is currently in a controlled development phase.  
+AI-OGF is currently in a controlled development phase.  
 Public contributions are welcome, but all submissions must:
 
 - Follow the Contributor Terms  

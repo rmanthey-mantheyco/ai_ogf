@@ -26,87 +26,87 @@
 ## Linked Supplements
 
 ### 4.x — Principles
-- [4.1 Transparency](supplements/4.x/AIOGF-SD-4.1.md)
-- [4.2 Least Autonomy](supplements/4.x/AIOGF-SD-4.2.md)
-- [4.3 Human Override](supplements/4.x/AIOGF-SD-4.3.md)
-- [4.4 Isolation by Design](supplements/4.x/AIOGF-SD-4.4.md)
-- [4.5 Dependency Awareness](supplements/4.x/AIOGF-SD-4.5.md)
-- [4.6 Fail‑Safe Defaults](supplements/4.x/AIOGF-SD-4.6.md)
-- [4.7 Workflow Layer Limits](supplements/4.x/AIOGF-SD-4.7.md)
-- [4.8 Constrained Autonomy Envelope (CAE)](supplements/4.x/AIOGF-SD-4.8.md)
-- [4.9 Compensating Controls for Life‑Determinant AI](supplements/4.x/AIOGF-SD-4.9.md)
-- [4.10 Identity‑Bound Authority](supplements/4.x/AIOGF-SD-4.10.md)
+- [4.1 Transparency](../supplements/4.x/AIOGF-SD-4.1.md)
+- [4.2 Least Autonomy](../supplements/4.x/AIOGF-SD-4.2.md)
+- [4.3 Human Override](../supplements/4.x/AIOGF-SD-4.3.md)
+- [4.4 Isolation by Design](../supplements/4.x/AIOGF-SD-4.4.md)
+- [4.5 Dependency Awareness](../supplements/4.x/AIOGF-SD-4.5.md)
+- [4.6 Fail‑Safe Defaults](../supplements/4.x/AIOGF-SD-4.6.md)
+- [4.7 Workflow Layer Limits](../supplements/4.x/AIOGF-SD-4.7.md)
+- [4.8 Constrained Autonomy Envelope (CAE)](../supplements/4.x/AIOGF-SD-4.8.md)
+- [4.9 Compensating Controls for Life‑Determinant AI](../supplements/4.x/AIOGF-SD-4.9.md)
+- [4.10 Identity‑Bound Authority](../supplements/4.x/AIOGF-SD-4.10.md)
 
 ### 5.x — Dependency Mapping
-- [5.2.1 Map AI → Infrastructure](supplements/5.x/AIOGF-SD-5.2.1.md)
-- [5.2.2 Map AI → AI](supplements/5.x/AIOGF-SD-5.2.2.md)
-- [5.2.3 Map AI → Humans](supplements/5.x/AIOGF-SD-5.2.3.md)
-- [5.2.4 Map Humans → AI](supplements/5.x/AIOGF-SD-5.2.4.md)
-- [5.2.5 Circular Dependencies](supplements/5.x/AIOGF-SD-5.2.5.md)
-- [5.3 Placeholder](supplements/5.x/AIOGF-SD-5.3.md)
-- [5.4 Placeholder](supplements/5.x/AIOGF-SD-5.4.md)
+- [5.2.1 Map AI → Infrastructure](../supplements/5.x/AIOGF-SD-5.2.1.md)
+- [5.2.2 Map AI → AI](../supplements/5.x/AIOGF-SD-5.2.2.md)
+- [5.2.3 Map AI → Humans](../supplements/5.x/AIOGF-SD-5.2.3.md)
+- [5.2.4 Map Humans → AI](../supplements/5.x/AIOGF-SD-5.2.4.md)
+- [5.2.5 Circular Dependencies](../supplements/5.x/AIOGF-SD-5.2.5.md)
+- [5.3 Placeholder](../supplements/5.x/AIOGF-SD-5.3.md)
+- [5.4 Placeholder](../supplements/5.x/AIOGF-SD-5.4.md)
 
 ### 6.x — Autonomy & Identity Controls
-- [6.2.1 Define Autonomy Levels](supplements/6.x/AIOGF-SD-6.2.1.md)
-- [6.2.2 Autonomy Boundary Enforcement](supplements/6.x/AIOGF-SD-6.2.2.md)
-- [6.2.3 Autonomy Drift Detection](supplements/6.x/AIOGF-SD-6.2.3.md)
-- [6.2.4 Autonomy Escalation Rules](supplements/6.x/AIOGF-SD-6.2.4.md)
-- [6.3 Decision Authority & Escalation](supplements/6.x/AIOGF-SD-6.3.md)
+- [6.2.1 Define Autonomy Levels](../supplements/6.x/AIOGF-SD-6.2.1.md)
+- [6.2.2 Autonomy Boundary Enforcement](../supplements/6.x/AIOGF-SD-6.2.2.md)
+- [6.2.3 Autonomy Drift Detection](../supplements/6.x/AIOGF-SD-6.2.3.md)
+- [6.2.4 Autonomy Escalation Rules](../supplements/6.x/AIOGF-SD-6.2.4.md)
+- [6.3 Decision Authority & Escalation](../supplements/6.x/AIOGF-SD-6.3.md)
 
 ### 7.x — Continuity and Safety Controls
-- [7.2.1 Continuity Boundaries](supplements/7.x/AIOGF-SD-7.2.1.md)
-- [7.2.2 Fallback Behavior](supplements/7.x/AIOGF-SD-7.2.2.md)
-- [7.2.3 Drift Detection](supplements/7.x/AIOGF-SD-7.2.3.md)
-- [7.2.4 Monitoring and Telemetry](supplements/7.x/AIOGF-SD-7.2.4.md)
-- [7.2.5 Escalation Paths](supplements/7.x/AIOGF-SD-7.2.5.md)
-- [7.2.6 Safe Mode Behavior](supplements/7.x/AIOGF-SD-7.2.6.md)
-- [7.2.7 Destructive Action Controls](supplements/7.x/AIOGF-SD-7.2.7.md)
+- [7.2.1 Continuity Boundaries](../supplements/7.x/AIOGF-SD-7.2.1.md)
+- [7.2.2 Fallback Behavior](../supplements/7.x/AIOGF-SD-7.2.2.md)
+- [7.2.3 Drift Detection](../supplements/7.x/AIOGF-SD-7.2.3.md)
+- [7.2.4 Monitoring and Telemetry](../supplements/7.x/AIOGF-SD-7.2.4.md)
+- [7.2.5 Escalation Paths](../supplements/7.x/AIOGF-SD-7.2.5.md)
+- [7.2.6 Safe Mode Behavior](../supplements/7.x/AIOGF-SD-7.2.6.md)
+- [7.2.7 Destructive Action Controls](../supplements/7.x/AIOGF-SD-7.2.7.md)
 
 ### 8.x — AI Workflow Layer Limits (AI‑WLL)
 
-- [8.1 Purpose](supplements/8.x/AIOGF-SD-8.1.md)  
+- [8.1 Purpose](../supplements/8.x/AIOGF-SD-8.1.md)  
   - 8.1.1 Rationale *(contained within 8.1)*  
   - 8.1.2 Applicability *(contained within 8.1)*   
-  - [8.2.1 Maximum Workflow Depth](supplements/8.x/AIOGF-SD-8.2.1.md)  
-  - [8.2.2 Mandatory Human Checkpoints](supplements/8.x/AIOGF-SD-8.2.2.md)  
-  - [8.2.3 Prohibited Recursive AI Calls](supplements/8.x/AIOGF-SD-8.2.3.md)
-  - [8.3.1 Cross‑AI Interaction Limits](supplements/8.x/AIOGF-SD-8.3.1.md)  
-  - [8.3.2 Workflow Telemetry Requirements](supplements/8.x/AIOGF-SD-8.3.2.md)  
-  - [8.3.3 Override & Rollback Requirements](supplements/8.x/AIOGF-SD-8.3.3.md) 
-  - [8.4.1 Infrastructure Deployment Example](supplements/8.x/AIOGF-SD-8.4.1.md)  
-  - [8.4.2 Remediation Example](supplements/8.x/AIOGF-SD-8.4.2.md)  
-  - [8.5.1 Exceptions](supplements/8.x/AIOGF-SD-8.5.1.md)  
-  - [8.5.2 Environment‑Specific Variations](supplements/8.x/AIOGF-SD-8.5.2.md)
+  - [8.2.1 Maximum Workflow Depth](../supplements/8.x/AIOGF-SD-8.2.1.md)  
+  - [8.2.2 Mandatory Human Checkpoints](../supplements/8.x/AIOGF-SD-8.2.2.md)  
+  - [8.2.3 Prohibited Recursive AI Calls](../supplements/8.x/AIOGF-SD-8.2.3.md)
+  - [8.3.1 Cross‑AI Interaction Limits](../supplements/8.x/AIOGF-SD-8.3.1.md)  
+  - [8.3.2 Workflow Telemetry Requirements](../supplements/8.x/AIOGF-SD-8.3.2.md)  
+  - [8.3.3 Override & Rollback Requirements](../supplements/8.x/AIOGF-SD-8.3.3.md) 
+  - [8.4.1 Infrastructure Deployment Example](../supplements/8.x/AIOGF-SD-8.4.1.md)  
+  - [8.4.2 Remediation Example](../supplements/8.x/AIOGF-SD-8.4.2.md)  
+  - [8.5.1 Exceptions](../supplements/8.x/AIOGF-SD-8.5.1.md)  
+  - [8.5.2 Environment‑Specific Variations](../supplements/8.x/AIOGF-SD-8.5.2.md)
 
 
 ### 9.x — AI Aware Continuity Planning
-- [9.1 Purpose](supplements/9.x/AIOGF-SD-9.1.md)
-- [9.2 Requirements](supplements/9.x/AIOGF-SD-9.2.md)  
-  - [9.2.1 AI Dependent Recovery Paths](supplements/9.x/AIOGF-SD-9.2.1.md)  
-  - [9.2.2 AI Independent Fallback Paths](supplements/9.x/AIOGF-SD-9.2.2.md)  
-  - [9.2.3 Circular Dependency Breakpoints](supplements/9.x/AIOGF-SD-9.2.3.md)
+- [9.1 Purpose](../supplements/9.x/AIOGF-SD-9.1.md)
+- [9.2 Requirements](../supplements/9.x/AIOGF-SD-9.2.md)  
+  - [9.2.1 AI Dependent Recovery Paths](../supplements/9.x/AIOGF-SD-9.2.1.md)  
+  - [9.2.2 AI Independent Fallback Paths](../supplements/9.x/AIOGF-SD-9.2.2.md)  
+  - [9.2.3 Circular Dependency Breakpoints](../supplements/9.x/AIOGF-SD-9.2.3.md)
 
 ### 10.x — AI Isolation and Air Gaps
-- [10.1 Purpose](supplements/10.x/AIOGF-SD-10.1.md)
-- [10.2 Requirements](supplements/10.x/AIOGF-SD-10.2.md)  
-  - [10.2.1 Independent Hardware](supplements/10.x/AIOGF-SD-10.2.1.md)  
-  - [10.2.2 Robotics Based Maintenance](supplements/10.x/AIOGF-SD-10.2.2.md)  
-  - [10.2.3 Isolated Update Channels](supplements/10.x/AIOGF-SD-10.2.3.md)
+- [10.1 Purpose](../supplements/10.x/AIOGF-SD-10.1.md)
+- [10.2 Requirements](../supplements/10.x/AIOGF-SD-10.2.md)  
+  - [10.2.1 Independent Hardware](../supplements/10.x/AIOGF-SD-10.2.1.md)  
+  - [10.2.2 Robotics Based Maintenance](../supplements/10.x/AIOGF-SD-10.2.2.md)  
+  - [10.2.3 Isolated Update Channels](../supplements/10.x/AIOGF-SD-10.2.3.md)
 
 ### 11.x — AI Monitoring and Drift Detection
-- [11.1 Purpose](supplements/11.x/AIOGF-SD-11.1.md)
-- [11.2 Requirements](supplements/11.x/AIOGF-SD-11.2.md)  
-  - [11.2.1 Behavioral Drift](supplements/11.x/AIOGF-SD-11.2.1.md)  
-  - [11.2.2 Model Drift](supplements/11.x/AIOGF-SD-11.2.2.md)  
-  - [11.2.3 Autonomy Drift](supplements/11.x/AIOGF-SD-11.2.3.md)
-  - [11.2.4 Memory Drift](supplements/11.x/AIOGF-SD-11.2.4.md)
+- [11.1 Purpose](../supplements/11.x/AIOGF-SD-11.1.md)
+- [11.2 Requirements](../supplements/11.x/AIOGF-SD-11.2.md)  
+  - [11.2.1 Behavioral Drift](../supplements/11.x/AIOGF-SD-11.2.1.md)  
+  - [11.2.2 Model Drift](../supplements/11.x/AIOGF-SD-11.2.2.md)  
+  - [11.2.3 Autonomy Drift](../supplements/11.x/AIOGF-SD-11.2.3.md)
+  - [11.2.4 Memory Drift](../supplements/11.x/AIOGF-SD-11.2.4.md)
 
 ### 12.x — Human Oversight and Intervention
-- [12.1 Purpose](supplements/12.x/AIOGF-SD-12.1.md)
-- [12.2 Requirements](supplements/12.x/AIOGF-SD-12.2.md)  
-  - [12.2.1 Manual Override](supplements/12.x/AIOGF-SD-12.2.1.md)  
-  - [12.2.2 Kill Switches](supplements/12.x/AIOGF-SD-12.2.2.md)  
-  - [12.2.3 Human Validated Checkpoints](supplements/12.x/AIOGF-SD-12.2.3.md)
+- [12.1 Purpose](../supplements/12.x/AIOGF-SD-12.1.md)
+- [12.2 Requirements](../supplements/12.x/AIOGF-SD-12.2.md)  
+  - [12.2.1 Manual Override](../supplements/12.x/AIOGF-SD-12.2.1.md)  
+  - [12.2.2 Kill Switches](../supplements/12.x/AIOGF-SD-12.2.2.md)  
+  - [12.2.3 Human Validated Checkpoints](../supplements/12.x/AIOGF-SD-12.2.3.md)
 
 ---
 
@@ -214,5 +214,5 @@ Instead, AI‑OGF is designed to **complement and integrate with** these framewo
 ## Index
 *(To be developed)*
 
-This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI‑OGF Limited Use License.  
+This document is part of the AI Operational Governance Framework (AI-OGF) and is protected under the AI‑OGF Limited Use License.  
 Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

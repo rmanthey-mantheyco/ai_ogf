@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # AIOGF‑SD‑X.X.X — [Title of Supplemental Document]
 
 **Document Identifier:** AIOGF‑SD‑X.X.X  

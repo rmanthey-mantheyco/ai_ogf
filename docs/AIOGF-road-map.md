@@ -3,9 +3,9 @@ title: Road‑Map & Backlog
 nav_order: 90
 ---
 
-# AIOGF Road‑Map / Backlog
+# AI-OGF Road‑Map / Backlog
 
-This roadmap outlines planned, deferred, and future enhancements for the AI Operational Governance Framework (AIOGF). These items are intentionally excluded from the current release but represent high‑value areas for expansion as the framework matures.
+This roadmap outlines planned, deferred, and future enhancements for the AI Operational Governance Framework (AI-OGF). These items are intentionally excluded from the current release but represent high‑value areas for expansion as the framework matures.
 
 The roadmap is divided into three categories:
 - **Framework Content Enhancements**
@@ -76,6 +76,6 @@ Optional enhancements to improve the published documentation experience:
 
 ## Road‑Map Philosophy
 
-AIOGF is designed to evolve as AI systems, operational risks, and industry practices change.  
+AI-OGF is designed to evolve as AI systems, operational risks, and industry practices change.  
 This roadmap will be updated as new requirements emerge, new contributors participate, and the framework expands into deeper technical and operational domains.
 

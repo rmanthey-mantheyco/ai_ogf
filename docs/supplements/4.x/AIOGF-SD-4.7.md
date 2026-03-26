@@ -20,7 +20,7 @@ parent: "4.x"
 
 ## Licensing and Usage Notice
 
-This supplemental document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI‑OGF Limited Use License.
+This supplemental document is part of the AI Operational Governance Framework (AI-OGF) and is protected under the AI‑OGF Limited Use License.
 
 You may:
 - Read and reference this document for internal, non‑commercial use.
@@ -31,7 +31,7 @@ You may not:
 - Use this document to train AI models or automated systems.
 - Incorporate this document into tools, platforms, or governance products without written permission.
 
-For permission requests or collaboration inquiries, visit the Permission and Collaboration page on the official AIOGF site.
+For permission requests or collaboration inquiries, visit the Permission and Collaboration page on the official AI-OGF site.
 
 ---
 
@@ -286,7 +286,7 @@ AI may adjust HVAC settings but cannot trigger downstream electrical or safety w
 
 ## 4.7.9 Cross‑References
 
-### **Internal AIOGF Controls**
+### **Internal AI-OGF Controls**
 
 - **4.2 Least Autonomy** — workflow depth is a form of autonomy control.  
 - **4.3 Human Override** — humans must intervene when depth exceeds limits.  
@@ -303,5 +303,5 @@ ISO 42001, NIST CSF, NIST SP 800‑53, IEC 61508.
 
 ---
 
-This document is part of the AI Operational Governance Framework (AIOGF) and is protected under the AI-OGF Limited Use License.
+This document is part of the AI Operational Governance Framework (AI-OGF) and is protected under the AI-OGF Limited Use License.
 Official source: https://rmanthey-mantheyco.github.io/ai-ogf/

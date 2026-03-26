@@ -1,10 +1,10 @@
-title: AI Operational Governance Framework (AIOGF)
+title: AI Operational Governance Framework (AI-OGF)
 description: A standards-grade governance framework for safe, controlled, and accountable AI operations.
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # GitHub Pages settings
 url: https://rmanthey-mantheyco.github.io
-baseurl: /ai-ogf
+baseurl: /ai_ogf
 
 # Enable search
 search_enabled: true
